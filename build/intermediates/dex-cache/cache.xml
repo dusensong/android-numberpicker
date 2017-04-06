@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dss/Desktop/wsas/android-numberpicker/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f756b3d12454c844f924502e77b9bebd507c8">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_a0dd1999f980d79872ba1090834d508442737823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/f5598ed633ae5ab059a4a7f6e2c1cd5074e39492/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_b6268121a930ab87d35e2014fff5ad0c76d6cd60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/2f8b50e5fed2ed26a27951af2d1a22f3b99b3144/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_86efb661e055f5f349a4ebd2ed0a17714efd3e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/f8fbd5a9e60523cba8f238aa420af2e718fbe495/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_8d54a86828542f9559bdb06e6486d05f4087d2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_66a14ee6c0b72899f93e6db7c7ccef603b9f37f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/27b62692aeb1745916a4711c29af8d7c0cef6a91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_d9f40a242163be4871b62547940086dd4d89fa66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/8c116bdf7dfe01c179b2cb05be7b2525c99809ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_ae65422ff648801383d4b0b2475c9c3f571baae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/363f27e5ac7143a410a390be94f293ee4141b3f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_be8b8687fc5cf161f6c7b97eefe2aea8452544af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/83a245358d559706fdc4f958fee593179b006eb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_5ad480287200d027bb6023cf6a5e9f010ffe112c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/9438a2ab3c14c513b41f85950fa06da9ebc829eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_e230311c9b1b593249c1ac569797e678a5b4d0d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dss/.android/build-cache/bb6451e0d47af42fb203c62e5d675e38fe6d9107/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/dss/Desktop/wsas/android-numberpicker/app/build/intermediates/pre-dexed/debug/classes_7f1641120d770488a992068c72b1638c1ffb3ed2.jar" />
+    </item>
+
+</items>
